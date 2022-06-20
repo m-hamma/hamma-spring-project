@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-    <h1>Hello World!</h1>
+    
+    <jsp:include page="/views/helloWorld.jsp"></jsp:include>
 </body>
 </html>
