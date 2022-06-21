@@ -1,4 +1,4 @@
-package com.hamma.resources;
+package com.hamma.controllers;
 
 import java.time.LocalDateTime;
 
